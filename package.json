@@ -1,5 +1,5 @@
 {
-  "name": "@hfall/benchmarkutil",
+  "name": "@hfall/benchmark",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://hfall@github.com/hfall/benchmark.git"
+    "url": "https://github.com/hfall/utils.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hfall/benchmark.git/issues"
+    "url": "https://github.com/hfall/utils.git/issues"
   },
-  "homepage": "https://github.com/hfall/benchmark.git#readme"
+  "homepage": "https://github.com/hfall/utils.git#readme"
 }
