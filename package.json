@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/hfall/utils.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/hfall"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
