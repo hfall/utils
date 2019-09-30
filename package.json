@@ -1,5 +1,5 @@
 {
-  "name": "@hfall/benchmark",
+  "name": "@hfall/modes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/hfall/utils.git"
+    "url": "git+https://github.com/hfall/utils.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/hfall"
+    "registry": "https://npm.pkg.github.com/"
   },
   "keywords": [],
   "author": "",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hfall/utils.git/issues"
   },
-  "homepage": "https://github.com/hfall/utils.git#readme"
+  "homepage": "https://github.com/hfall/utils.git#readme",
+  "devDependencies": {
+    "lerna": "^3.16.4"
+  }
 }
