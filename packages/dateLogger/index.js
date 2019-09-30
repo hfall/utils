@@ -1,5 +1,5 @@
 module.exports = {
   currentDay: () => {
-    console.log(new Date().getDay)
+    console.log("Today's Day: ", new Date().getDay);
   }
-}
+};
