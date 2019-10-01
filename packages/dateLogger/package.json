@@ -1,5 +1,5 @@
 {
-  "name": "@utils/dateLogger",
+  "name": "@hfall/dateLogger",
   "version": "1.1.4",
   "description": "",
   "main": "index.js",
